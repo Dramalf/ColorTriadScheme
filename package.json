@@ -1,0 +1,22 @@
+{
+  "name": "colortriadscheme",
+  "version": "1.0.0",
+  "description": "Relevant code with reference to the 『3色だけでセンスのいい色』",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dramalf/ColorTriadScheme.git"
+  },
+  "dependencies": {
+    "@material/material-color-utilities": "^0.2.7"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dramalf/ColorTriadScheme/issues"
+  },
+  "homepage": "https://github.com/Dramalf/ColorTriadScheme#readme"
+}
